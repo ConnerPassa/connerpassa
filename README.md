@@ -1,4 +1,4 @@
- Hello, I'm Conner Passafiume. 
+Hello, I'm Conner Passafiume. 
 
 I'm a data analytics professional based in Indianapolis, Indiana.
 
