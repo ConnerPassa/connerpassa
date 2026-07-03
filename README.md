@@ -1,41 +1,42 @@
 # Conner Passafiume
 
-Financial Analyst
+Welcome to my professional portfolio.
 
-This GitHub serves as my professional portfolio of financial modeling, valuation, forecasting, financial statement analysis, and business analytics projects.
+This GitHub showcases financial modeling, budgeting and forecasting, financial statement analysis, business intelligence, and data analytics projects developed using public company filings and real-world business data.
 
-My work focuses on building analytical models, evaluating business performance, and developing practical solutions that support financial and operational decision-making.
+My primary career objective is to build a career in Financial Planning & Analysis (FP&A). The projects in this portfolio reflect the analytical, financial, and technical skills required to support budgeting, forecasting, financial reporting, business performance analysis, and strategic decision-making.
+
+In addition to financial analysis, I have experience developing SQL queries, Power BI dashboards, and Python-based analytical tools. These projects demonstrate my ability to perform the work commonly expected of Financial Analysts, FP&A Analysts, Business Analysts, and Data Analysts while using data to support business decisions.
 
 ## Areas of Focus
 
 - Financial Modeling
-- Valuation
-- Forecasting
+- Budgeting & Forecasting
 - Financial Statement Analysis
+- Business Performance Analysis
 - Business Intelligence
-- Data Analysis
+- Data Analytics
 
 ## Technical Skills
 
-- Excel
+- Microsoft Excel
 - Power BI
 - SQL
 - Python
 
 ## Portfolio
 
-This portfolio includes projects in:
+The repositories in this portfolio include projects in:
 
 - Financial Modeling & Valuation
 - FP&A & Forecasting
-- Business Intelligence
+- Business Intelligence Dashboards
 - SQL & Database Analysis
-- Python Analytics
+- Business Analytics
+- Financial Statement Analysis
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/conner-passafiume-72612616a/
+**LinkedIn:** https://www.linkedin.com/in/conner-passafiume-72612616a/
 
-Email: connerpassafiume@gmail.com
-
-Substack: https://substack.com/@deepvaluemedici
+**Email:** connerpassafiume@gmail.com
