@@ -40,3 +40,5 @@ The repositories in this portfolio include projects in:
 **LinkedIn:** https://www.linkedin.com/in/conner-passafiume-72612616a/
 
 **Email:** connerpassafiume@gmail.com
+
+**Substack:** https://substack.com/@deepvaluemedici
