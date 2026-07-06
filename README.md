@@ -12,7 +12,7 @@
 
 Welcome to my personal repository.
 
-I am an analyst, investor, and writer who is passionate about financial modeling and the valuation of assets and securities. Inside you will find a mutltidude of projects that I have worked on. They range from elaborate financial models to full data warehouses.
+I am an analyst, investor, and writer who is passionate about financial modeling and the valuation of assets and securities. Inside you will find a mutltidude of projects that I have worked on. They range from elaborate financial models to full data warehouses. 
 
 ## Technical Skills
 
