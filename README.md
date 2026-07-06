@@ -1,12 +1,25 @@
 # Conner Passafiume
 
+## Contact
+
+**LinkedIn:** https://www.linkedin.com/in/conner-passafiume-72612616a/
+
+**Email:** connerpassafiume@gmail.com
+
+**Substack:** https://substack.com/@deepvaluemedici
+
+---------------------------------------------------------------------------------------
+
 Welcome to my personal repository.
 
-Inside you will find projects that showcase technical skills like financial modeling, budgeting and forecasting, financial statement analysis, business intelligence, and data analytics. 
+I am an analyst, investor, and writer who is passionate about financial modeling and the valuation of assets and securities. Inside you will find a mutltidude of projects that I have worked on. They range from elaborate financial models to full data warehouses.
 
-My primary career objective is to build a career in Financial Planning & Analysis (FP&A). The projects in this portfolio reflect the analytical, financial, and technical skills required to support budgeting, forecasting, financial reporting, business performance analysis, and strategic decision-making.
+## Technical Skills
 
-In addition to financial analysis, I have experience developing SQL queries, Power BI dashboards, and Python-based analytical tools. These projects demonstrate my ability to perform the work commonly expected of Financial Analysts, FP&A Analysts, Business Analysts, and Data Analysts while using data to support business decisions.
+- Microsoft Excel
+- Power BI
+- SQL
+- Python
 
 ## Areas of Focus
 
@@ -17,23 +30,15 @@ In addition to financial analysis, I have experience developing SQL queries, Pow
 - Business Intelligence
 - Data Analytics
 
-## Technical Skills
-
-- Microsoft Excel
-- Power BI
-- SQL
-- Python
-
 ## Portfolio
 
 The repositories in this portfolio include projects in:
 
-- Financial Modeling & Valuation
-- FP&A & Forecasting
-- Business Intelligence Dashboards
-- SQL & Database Analysis
-- Business Analytics
-- Financial Statement Analysis
+- Valuation models
+- Forecasting models
+- Data warehouse built in SQL & Python
+- Power BI reports and dashboards
+- Machine learning and prediciton models
 
 ## Contact
 
