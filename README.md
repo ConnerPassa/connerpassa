@@ -1,8 +1,8 @@
 # Conner Passafiume
 
-Welcome to my professional portfolio.
+Welcome to my personal repository.
 
-This GitHub showcases financial modeling, budgeting and forecasting, financial statement analysis, business intelligence, and data analytics projects developed using public company filings and real-world business data.
+Inside you will find projects that showcase technical skills like financial modeling, budgeting and forecasting, financial statement analysis, business intelligence, and data analytics. 
 
 My primary career objective is to build a career in Financial Planning & Analysis (FP&A). The projects in this portfolio reflect the analytical, financial, and technical skills required to support budgeting, forecasting, financial reporting, business performance analysis, and strategic decision-making.
 
