@@ -12,7 +12,9 @@
 
 Welcome to my personal repository.
 
-I am an analyst, investor, and writer who is passionate about financial modeling and the valuation of assets and securities. Inside you will find a mutltidude of projects that I have worked on. They range from elaborate financial models to full data warehouses. 
+I am an analyst, investor, and writer with a passion for financial modeling, business analysis, and the valuation of companies. This repository contains projects ranging from integrated financial models and forecasting tools to SQL data warehouses, Power BI dashboards, and machine learning applications.
+
+I also write **Deep Value Medici**, a Substack focused on value investing, company research, valuation, capital allocation, and long-term investment analysis. Many of the financial models and analytical frameworks featured in this repository support or complement that research.
 
 ## Technical Skills
 
@@ -24,26 +26,20 @@ I am an analyst, investor, and writer who is passionate about financial modeling
 ## Areas of Focus
 
 - Financial Modeling
-- Budgeting & Forecasting
-- Financial Statement Analysis
-- Business Performance Analysis
+- Company Valuation
+- Forecasting & Budgeting
 - Business Intelligence
-- Data Analytics
+- Data and Predictive Analytics
 
 ## Portfolio
 
 The repositories in this portfolio include projects in:
 
-- Valuation models
-- Forecasting models
-- Data warehouse built in SQL & Python
-- Power BI reports and dashboards
-- Machine learning and prediciton models
-
-## Contact
-
-**LinkedIn:** https://www.linkedin.com/in/conner-passafiume-72612616a/
-
-**Email:** connerpassafiume@gmail.com
-
-**Substack:** https://substack.com/@deepvaluemedici
+- Integrated Financial Models
+- Valuation Models
+- Budgeting & Forecasting Models
+- Financial Statement Analysis
+- SQL Data Warehouses
+- Power BI Reports & Dashboards
+- Business Analytics Projects
+- Machine Learning & Predictive Models
