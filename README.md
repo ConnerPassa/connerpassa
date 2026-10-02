@@ -26,7 +26,7 @@ I also write **Deep Value Medici**, a Substack focused on value investing, compa
 ## Areas of Focus
 
 - Financial Modeling
-- Company Valuation
+- Company Valuation 
 - Forecasting & Budgeting
 - Business Intelligence
 - Data and Predictive Analytics
