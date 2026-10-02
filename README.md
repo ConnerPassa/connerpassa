@@ -6,7 +6,7 @@
 
 **Email:** connerpassafiume@gmail.com
 
-**Substack:** https://substack.com/@deepvaluestandard
+**Substack:** [https://substack.com/@deepvaluestandard](http://deepvaluestandard.substack.com/?utm_campaign=profile_chips)
 
 ---------------------------------------------------------------------------------------
 
